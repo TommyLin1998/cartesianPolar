@@ -29,4 +29,6 @@ plt.plot(x, y_cos, 'b', label = 'cosine')
 
 plt.legend(loc = 'lower left')
 
+plt.suptitle('Trigonometric Functions')
+
 plt.show()
